@@ -1,18 +1,13 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<br />
-
-<p align="center ">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04FF3C&center=true&width=435&lines=Hi%2C+I+am+Zobaidul+Kazi;+Full+Stack+JavaScript+Developer+" alt="Typing SVG" /></a> <p/>
-
-<br />
 <h3 align="center" style="color:#00d4ff; padding: 30px; font-size:20px;"> 
-I am a full-stack developer who can help you build and maintain both the front-end and back-end of a website,
+
 </h3>
+
+<p align="center ">   <a href="/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04FF3C&center=true&width=435&lines=Hi%2C+I+am+Zobaidul+Kazi;+Full+Stack+JavaScript+Developer+" alt="Typing SVG" /></a> <p/>
+<br />
 &emsp;
 
 <!--START_SECTION:codetime-->
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0)](https://codetime.dev)
 
 <p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -108,7 +103,12 @@ I am a full-stack developer who can help you build and maintain both the front-e
 
 &emsp;
 
+### Contact Me
+
+
+
 <details>
+
   <summary>📃 &nbsp;Educational Background</summary>
 
 ## Education
