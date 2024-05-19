@@ -6,12 +6,11 @@
 
 I am a passionate Full Stack Developer with expertise in building scalable web applications and solving complex problems. I thrive in collaborative environments and enjoy working on both frontend and backend development. Here’s a bit more about me:
 
-
 <p>
 
 &emsp;
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0)](https://zobkazi.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zobkazi&color=blue)
 
@@ -108,9 +107,12 @@ I am a passionate Full Stack Developer with expertise in building scalable web a
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
 
-- [LinkedIn](https://www.linkedin.com/in/zobaidulkazi/)
-- [Twitter](https://twitter.com/zobaidulkazi)
-- [Portfolio](https://zobaidulkazi.vercel.app/)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobaidulkazi/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zobaidulkazi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rffa00?style=for-the-badge&logo=About.me&logoColor=white)](https://zobkazi.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zk.kazi@gmail.com)
 
 &emsp;
 
