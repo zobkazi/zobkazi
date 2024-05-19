@@ -1,4 +1,4 @@
-<h3 align="center" style="color:#00d4ff; padding: 30px; font-size:20px;"> 
+<h3 align="center" style="color:#00d4ff; padding: 30px; font-size:20px;">
 
 </h3>
 
@@ -7,7 +7,6 @@
 &emsp;
 
 <!--START_SECTION:codetime-->
-
 
 <p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -104,8 +103,6 @@
 &emsp;
 
 ### Contact Me
-
-
 
 <details>
 
