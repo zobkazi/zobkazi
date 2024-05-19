@@ -3,19 +3,19 @@
 </h3>
 
 <p align="center ">   <a href="/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04FF3C&center=true&width=435&lines=Hi%2C+I+am+Zobaidul+Kazi;+Full+Stack+JavaScript+Developer+" alt="Typing SVG" /></a> <p/>
-<br />
+
+I am a passionate Full Stack Developer with expertise in building scalable web applications and solving complex problems. I thrive in collaborative environments and enjoy working on both frontend and backend development. Here’s a bit more about me:
+
+
+<p>
+
 &emsp;
 
-<!--START_SECTION:codetime-->
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0)](https://codetime.dev)
 
-<p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=zobkazi&color=blue)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia"/>
-
-</p>
-<!-- Add Profile -->
-<p>
+&emsp;
 
 ## 🛠️ My Skills
 
@@ -98,11 +98,21 @@
 
 ---
 
----
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia"/>
 
 &emsp;
 
-### Contact Me
+### 🌐 Connect with Me
+
+Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
+
+- [LinkedIn](https://www.linkedin.com/in/zobaidulkazi/)
+- [Twitter](https://twitter.com/zobaidulkazi)
+- [Portfolio](https://zobaidulkazi.vercel.app/)
+
+&emsp;
 
 <details>
 
