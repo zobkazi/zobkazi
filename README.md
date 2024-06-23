@@ -103,7 +103,6 @@ I am a dedicated and passionate Full Stack Developer with a strong background in
 
 &emsp;
 
-### 🌐 Connect with Me
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
 
