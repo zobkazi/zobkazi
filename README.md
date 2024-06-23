@@ -4,7 +4,7 @@
 
 <p align="center ">   <a href="/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04FF3C&center=true&width=435&lines=Hi%2C+I+am+Zobaidul+Kazi;+Full+Stack+JavaScript+Developer+" alt="Typing SVG" /></a> <p/>
 
-I am a passionate Full Stack Developer with expertise in building scalable web applications and solving complex problems. I thrive in collaborative environments and enjoy working on both frontend and backend development. Here’s a bit more about me:
+I am a dedicated and passionate Full Stack Developer with a strong background in creating scalable and efficient web applications. My expertise lies in both frontend and backend development, allowing me to build comprehensive digital solutions from the ground up. Here’s a bit more about who I am and where you can find me online. Here’s a bit more about me:
 
 <p>
 
