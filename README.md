@@ -75,11 +75,13 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 - 📖 **&nbsp;Diploma In Engineering**\
   📆 &nbsp;2019 - 2023\
+  📈 &nbsp;result: 4.71 {out of 5.00}\
   📍 **&nbsp; Mymensingh Polytechnic Institute** - Mymensingh,Bangladesh
 
 - 📖 **&nbsp;SSC**\
   📆 &nbsp;2017 - 2018\
-  📍 **&nbsp;Ulipur,Kurigram** - Kurigram,Rongpur
+  📈 &nbsp;result: 4.71 {out of 5.00}\
+  📍 **&nbsp;Ulipur,Kurigram** - Rangpur, Bangladesh
 
 ---
 
