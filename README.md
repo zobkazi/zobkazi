@@ -72,17 +72,21 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
   <summary>📃 &nbsp;Educational Background</summary>
 
 ## Education
-
+  
 - 📖 **&nbsp;Diploma In Engineering**\
   📆 &nbsp;2019 - 2023\
-  📈 &nbsp;result: 4.71 {out of 5.00}\
+  📈 &nbsp;Result: 3.08 [out of 4.00]\
   📍 **&nbsp; Mymensingh Polytechnic Institute** - Mymensingh,Bangladesh
 
 - 📖 **&nbsp;SSC**\
   📆 &nbsp;2017 - 2018\
-  📈 &nbsp;result: 4.71 {out of 5.00}\
+  📈 &nbsp;Result: 4.71 [out of 5.00]\
   📍 **&nbsp;Ulipur,Kurigram** - Rangpur, Bangladesh
 
----
+ ## Online Course
+ - 📖 **&nbsp;FullStack Army**\
+  📆 &nbsp;2020 - 2024\
+  🧩 &nbsp; Stack Learner\
+  📍 **&nbsp;Dhaka**-Bangladesh
 
 ---
