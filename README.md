@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://zobkazi.github.io/">
-   <img height=200 align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://zobkazi.github.io/">
-   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia&card_width=320"/>
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
