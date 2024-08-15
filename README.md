@@ -50,17 +50,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <div style="display: flex; justify-content: center;">
-    <a href="https://zobkazi.github.io/">
-      <img align="center" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </a>
-    <a href="https://zobkazi.github.io/">
-      <img align="center" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-    </a>
-  </div>
-</p>
+<details>
+  <summary>Click to expand</summary>
 
+ <p align="center">
+  <a href="https://zobkazi.github.io/">
+   <a href="https://zobkazi.github.io/">
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://zobkazi.github.io/">
+     <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  </a>
+</p>
+</details>
 
 ## 📈 Top Languages and ⏱️ WakaTime Stats
 <details>
