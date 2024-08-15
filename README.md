@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center;">
     <a href="https://zobkazi.github.io/">
       <img align="center" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </a>
@@ -78,22 +78,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zobaidulkazi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/zobaidulkazi">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://zobkazi.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-rffa00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:zk.kazi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ## 📃 Educational Background
 
@@ -117,5 +101,23 @@
 </details>
 
 ---
-
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
+
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zobaidulkazi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/zobaidulkazi">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://zobkazi.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-rffa00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:zk.kazi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
