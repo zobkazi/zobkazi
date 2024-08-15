@@ -17,6 +17,44 @@
   <img src="https://komarev.com/ghpvc/?username=zobkazi&color=blue" alt="Profile Views" />
 </p>
 
+---
+
+```sh
+curl -s https://api.github.com/users/zobkazi | jq
+```
+
+---
+## 📊 GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zobkazi&theme=algolia" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobkazi&layout=compact&langs_count=8&theme=algolia" />
+</a>
+
+
+## ⏱️ WakaTime Stats
+
+<details>
+  <summary>Click to expand Stats </summary>
+
+ <p align="center">
+  <a href="https://zobkazi.github.io/">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobkazi&layout=pie&theme=algolia" />
+  </a>
+   
+  <a href="https://zobkazi.github.io/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zobaidulkazi&layout=compact&theme=algolia" />
+  </a>
+</p>
+
+</details>
+
+---
+
+
 ## 🛠️ My Skills
 
 <details>
@@ -52,51 +90,10 @@
 </details>
 
 ---
-
-## 📊 GitHub Stats
-
-<details>
-  <summary>Click to expand</summary>
-
- 
-   <a href="https://zobkazi.github.io/">
-      <img eight=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://zobkazi.github.io/">
-     <img eight=200 align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&theme=algolia&card_width=320" alt="Top Languages"/>
-  </a>
-   
-</details>
-
-## 📈 Top Languages and ⏱️ WakaTime Stats
-
-<details>
-  <summary>Click to expand</summary>
-
- <p align="center">
-  <a href="https://zobkazi.github.io/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobkazi&layout=pie&theme=algolia" />
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://zobkazi.github.io/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zobaidulkazi&layout=compact&theme=algolia" />
-  </a>
-</p>
-</details>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zobkazi&theme=algolia" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobkazi&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
-
 ## 📃 Educational Background
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand Educational Background</summary>
 
 - 📖 **Diploma In Engineering**\
   📆 &nbsp;2019 - 2023\
