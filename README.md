@@ -26,11 +26,11 @@ curl -s https://api.github.com/users/zobkazi | jq
 ---
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://zobkazi.github.io">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zobkazi&theme=algolia" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://zobkazi.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobkazi&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
@@ -62,7 +62,7 @@ curl -s https://api.github.com/users/zobkazi | jq
 
 ### 👉 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust" alt="Programming Languages" />
 
 ### 👉 Frontend Development
 
@@ -70,7 +70,7 @@ curl -s https://api.github.com/users/zobkazi | jq
 
 ### 👉 Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,deno,express,nest,fastapi,redis,rabbitmq,kafka" alt="Backend Development" />
+<img src="https://skillicons.dev/icons?i=nodejs,deno,bun,express,nest,fastapi,redis,rabbitmq,kafka" alt="Backend Development" />
 
 ### 👉 Databases Management Systems
 
@@ -78,15 +78,15 @@ curl -s https://api.github.com/users/zobkazi | jq
 
 ### 👉 Software & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,npm,yarn,pnpm,figma" alt="Software & Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,pnpm,figma,firebase" alt="Software & Tools" />
 
-### 👉 API Integrations & IDE
+### 👉 API Integrations & CI?CD
 
-<img src="https://skillicons.dev/icons?i=vscode,codepen,postman" alt="API Integrations & IDE" />
+<img src="https://skillicons.dev/icons?i=graphql,cloudflare,workers,githubactions,docker, " alt="API Integrations & IDE" />
 
-### 👉 Operating Systems & CMS
+### 👉 Operating Systems & IDE
 
-<img src="https://skillicons.dev/icons?i=linux,windows,wordpress" alt="Operating Systems & CMS" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,webstorm,vim" alt="Operating Systems & CMS" />
 </details>
 
 ---
@@ -127,7 +127,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
   <a href="https://zobkazi.github.io">
     <img src="https://img.shields.io/badge/Portfolio-rffa00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:zk.kazi@gmail.com">
+  <a href="mailto:mdzobaidul28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
