@@ -14,6 +14,9 @@
   <a href="https://zobkazi.github.io">
     <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0" alt="CodeTime Badge" />
   </a>
+<a href="https://wakatime.com/@f22f5f67-c272-4052-bc4f-b9ee26dfabff"><img src="https://wakatime.com/badge/user/f22f5f67-c272-4052-bc4f-b9ee26dfabff.svg" alt="Total time coded since May 31 2024" /></a>
+
+  
   <img src="https://komarev.com/ghpvc/?username=zobkazi&color=blue" alt="Profile Views" />
 </p>
 
@@ -55,7 +58,7 @@ curl -s https://api.github.com/users/zobkazi | jq
 ---
 
 
-## 🛠️ My Skills
+## 🛠️ Technologies and tools:
 
 <details>
   <summary>Click to expand</summary>
@@ -66,7 +69,7 @@ curl -s https://api.github.com/users/zobkazi | jq
 
 ### 👉 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,html,css,sass,bootstrap,tailwind,materialui" alt="Frontend Development" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,redux,angular,html,css,sass,bootstrap,tailwind,materialui" alt="Frontend Development" />
 
 ### 👉 Backend Development
 
@@ -78,11 +81,15 @@ curl -s https://api.github.com/users/zobkazi | jq
 
 ### 👉 Software & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,pnpm,figma,firebase" alt="Software & Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,pnpm,firebase,bots" alt="Software & Tools" />
 
-### 👉 API Integrations & CI?CD
+### 👉 Tools
 
-<img src="https://skillicons.dev/icons?i=graphql,cloudflare,workers,githubactions,docker, " alt="API Integrations & IDE" />
+<img src="https://skillicons.dev/icons?i=notion,obsidian,md,figma,blender,postman" alt="Software & Tools" />
+
+### 👉 API Integrations & CI/CD
+
+<img src="https://skillicons.dev/icons?i=graphql,cloudflare,tensorflow,workers,githubactions,docker, " alt="API Integrations & IDE" />
 
 ### 👉 Operating Systems & IDE
 
